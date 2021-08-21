@@ -1,10 +1,20 @@
 # flute
 
-A new Flutter project.
+Flutter with functional widgets, hooks, and redux.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Before run don't forget to get dependencies with: 
+
+```
+flutter pub get
+```
+
+then run build runner:  
+
+```
+flutter pub run build_runner watch --delete-conflicting-outputs
+```
 
 A few resources to get you started if this is your first Flutter project:
 
